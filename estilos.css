@@ -1,0 +1,48 @@
+h1{
+    color: brown;
+    background-color: burlywood;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+h2{
+
+    text-align:center;
+    background-color: #e9967a;
+    
+}
+body {
+    background-color: blanchedalmond; 
+}
+p{
+    width: 80%; /* largo del cuadro */
+    margin: 0 auto; /* centrarlo en el medio */
+    padding: 20px; /* espacio de adentro */
+    background-color: wheat; 
+    border-radius: 10px; /* cuadro redondo */
+    margin-bottom: 20px;
+
+}
+img{
+    margin-bottom: 20px;
+    font-size: 35px;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  
